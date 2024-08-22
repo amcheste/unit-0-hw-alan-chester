@@ -14,8 +14,11 @@ Create a virtual enviroment with
 Then activate it in terminal:
 
 Windows: `.\.venv\Scripts\activate`
+
 Mac: `source ./.venv/Scripts/activate`
+
 Linux: `source ./.venv/Scripts/activate`
+
 
 You should see `.venv` appear in the terminal on the left side of teh command line.
 
