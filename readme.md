@@ -13,9 +13,9 @@ Then activate it in terminal:
 
 Windows: `.\.venv\Scripts\activate`
 
-Mac: `source ./.venv/Scripts/activate`
+Mac: `source ./.venv/bin/activate`
 
-Linux: `source ./.venv/Scripts/activate`
+Linux: `source ./.venv/bin/activate`
 
 
 You should see `.venv` appear in the terminal on the left side of teh command line.
