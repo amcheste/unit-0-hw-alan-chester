@@ -2,3 +2,4 @@ ipython
 nbformat
 ipykernel
 pytest
+jupyter
